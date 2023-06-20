@@ -1,0 +1,13 @@
+langchain
+openai
+faiss-cpu==1.7.3
+unstructured==0.5.8
+ffmpeg-python
+transformers
+gtts
+torch
+tiktoken
+huggingface-hub
+google-generativeai
+gradio
+jq
